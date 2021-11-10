@@ -9,7 +9,7 @@ parameters = {
 }
 headers = {
     'Accepts': 'aplication/json',
-    'X-CMC_PRO_API_KEY': 'API'
+    'X-CMC_PRO_API_KEY': 'coinmarketcap API here'
 
 }
 
