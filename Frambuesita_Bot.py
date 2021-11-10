@@ -42,7 +42,7 @@ def start(update, context):
 
 
 def main():
-    updater = Updater("API", use_context=True)
+    updater = Updater("Telegram Bot API Here", use_context=True)
 
     dp = updater.dispatcher
 
